@@ -1,0 +1,7 @@
+﻿  00同名成员变量.cpp
+D:\Desktop\Code\Learns_C++\Learns_04\面向对象\00同名成员变量.cpp(11,34): warning C4838: 从“__int64”转换到“int”需要收缩转换
+D:\Desktop\Code\Learns_C++\Learns_04\面向对象\00同名成员变量.cpp(11,34): warning C4305: “初始化”: 从“__int64”到“int”截断
+D:\Desktop\Code\Learns_C++\Learns_04\面向对象\00同名成员变量.cpp(11,34): warning C4309: “初始化”: 截断常量值
+D:\Desktop\Code\Learns_C++\Learns_04\面向对象\00同名成员变量.cpp(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“int *”
+D:\Desktop\Code\Learns_C++\Learns_04\面向对象\00同名成员变量.cpp(12,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 4 冲突
+  面向对象.vcxproj -> D:\Desktop\Code\Learns_C++\Learns_04\面向对象\x64\Debug\面向对象.exe
